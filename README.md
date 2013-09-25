@@ -1,8 +1,6 @@
 module
 ======
-tools for nodejs,include
-1 excel read to json
-2 further increase
+tools for nodejs,include(excel read to json, further increase)
 
 OpExcel.js
 ------
